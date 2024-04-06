@@ -1,16 +1,16 @@
 {
     "data": [
         {
-            "name": "Vue",
-            "link": "https://cn.vuejs.org/"
+            "name": "<React>",
+            "link": "<https://react.dev/>"
         },
         {
-            "name": "React",
-            "link": "https://react.docschina.org/"
+            "name": "<Vue>",
+            "link": "<https://vuejs.org/>"
         },
-        {
-            "name": "jQuery",
-            "link": "https://jquery.com/"
+	{
+            "name": "<Angular>",
+            "link": "<https://angular.io/>"
         }
     ]
 }
